@@ -1,4 +1,3 @@
-# MediaPipe-usage-codes
 # LaptopCam_1Person_Holistic_Analyzer
 
 Single-person video analysis (Pose + Hands + Lips) with mirror-safe overlay and CSV outputs on Google Colab.
