@@ -13,7 +13,6 @@ Single-person video analysis (Pose + Hands + Lips) with mirror-safe overlay and 
 
 ## Notes
 - Analysis runs on **mirrored frames**, outputs are saved in the **original orientation**.
-- Do not commit personal videos; add outputs to `.gitignore`.
 
 ## License
 MIT
