@@ -4,7 +4,7 @@ Single-person video analysis (Pose + Hands + Lips) with mirror-safe overlay and 
 
 ## Open in Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/<YOUR_GITHUB_USER>/<YOUR_REPO>/blob/main/notebooks/LaptopCam_1Person_Holistic_Analyzer.ipynb)
+(https://github.com/cSAS3/MediaPipe-usage-codes/blob/main/LaptopCam_1Person_Holistic_Analyzer.ipynb)
 
 ## What you get
 - overlay_detailed.mp4 / overlay_simple.mp4
